@@ -1,7 +1,7 @@
 {
   "jenjang": "SMP",
   "nama": "E-Ujian SMP Dua Mei",
-  "generated_at": "2026-10-18T06:25:03.481Z",
+  "generated_at": "2026-10-27T06:09:19.264Z",
   "jadwal": [
     {
       "id": "DUMMY-JDL-0010",
@@ -101,19 +101,6 @@
       "kelas_id": "KLS-SMP-8",
       "mapel": "INFORMATIKA",
       "mapel_id": "MAP-0020",
-      "jam_mulai": "11:00",
-      "jam_selesai": "12:00",
-      "status": "Uji Coba",
-      "link_ujian": "",
-      "catatan": "DATA DUMMY - BUKAN JADWAL RESMI; HAPUS/GANTI SEBELUM UJIAN"
-    },
-    {
-      "id": "DUMMY-JDL-0031",
-      "tanggal": "2026-10-15",
-      "kelas": "IX",
-      "kelas_id": "KLS-SMP-9",
-      "mapel": "INFORMATIKA",
-      "mapel_id": "MAP-0031",
       "jam_mulai": "11:00",
       "jam_selesai": "12:00",
       "status": "Uji Coba",
@@ -430,6 +417,19 @@
       "jam_selesai": "10:30",
       "status": "Uji Coba",
       "link_ujian": "",
+      "catatan": "DATA DUMMY - BUKAN JADWAL RESMI; HAPUS/GANTI SEBELUM UJIAN"
+    },
+    {
+      "id": "DUMMY-JDL-0031",
+      "tanggal": "2026-10-28",
+      "kelas": "IX",
+      "kelas_id": "KLS-SMP-9",
+      "mapel": "INFORMATIKA",
+      "mapel_id": "MAP-0031",
+      "jam_mulai": "7:00",
+      "jam_selesai": "14:00:00 PM",
+      "status": "Uji Coba",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbzhbdmCHOCvCs5rNCEO5RF1SOKbiJ2agI_O8ak96zOf7U5f2nKxMP2K0eiHXuMkcmMh/exec",
       "catatan": "DATA DUMMY - BUKAN JADWAL RESMI; HAPUS/GANTI SEBELUM UJIAN"
     }
   ]
