@@ -1,7 +1,7 @@
 {
   "jenjang": "SMK",
   "nama": "E-Ujian SMK Dua Mei",
-  "generated_at": "2026-10-27T06:09:24.998Z",
+  "generated_at": "2026-11-05T04:06:12.674Z",
   "jadwal": [
     {
       "id": "DUMMY-JDL-0211",
@@ -754,7 +754,7 @@
       "jam_mulai": "11:00",
       "jam_selesai": "12:00",
       "status": "Uji Coba",
-      "link_ujian": "",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbxjPQiqhw7YqWKG7I4_AK9NVCp9lrGCurL3Bc8Z_tXq9OcWGJMWPY1P31xVBR41OsDh4w/exec",
       "catatan": "DATA DUMMY - BUKAN JADWAL RESMI; HAPUS/GANTI SEBELUM UJIAN"
     },
     {
