@@ -1,6 +1,124 @@
 {
   "jenjang": "SMK",
   "nama": "E-Ujian SMK Dua Mei",
-  "generated_at": "2026-11-26T13:07:13.705Z",
-  "jadwal": []
+  "generated_at": "2026-11-27T03:08:51.279Z",
+  "jadwal": [
+    {
+      "id": "JDL-SMK-0001",
+      "tanggal": "2026-11-27",
+      "kelas": "Kelas X MPLB",
+      "kelas_id": "KLS-SMK-X-MPLB",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0300",
+      "jam_mulai": "10:45",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbxSlg8wpPQyDmBYXWDlGXx7gdTh2R6McDIuMDY5kvBd7WjXWD9qK1jJ0w6EwjDbYEJT/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    },
+    {
+      "id": "JDL-SMK-0002",
+      "tanggal": "2026-11-27",
+      "kelas": "Kelas X DKV",
+      "kelas_id": "KLS-SMK-X-DKV",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0301",
+      "jam_mulai": "10:45",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbyA8bLW9zTcUCzt6RGsmZijN3zY7_Vq0D8gK0fMIyfn3Wv19ipVOVgNt6IGsepI2C8O/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    },
+    {
+      "id": "JDL-SMK-0003",
+      "tanggal": "2026-11-27",
+      "kelas": "Kelas X TJKT",
+      "kelas_id": "KLS-SMK-X-TJKT",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0302",
+      "jam_mulai": "10:45",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbwnqWai75tOe0aKBxvF-nFirrfdZ3_5XNoVQh_Mv9IgeOFFNBa_RJK6geGOs7k9SNkbqA/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    },
+    {
+      "id": "JDL-SMK-0004",
+      "tanggal": "2026-11-27",
+      "kelas": "Kelas X AKL",
+      "kelas_id": "KLS-SMK-X-AKL",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0303",
+      "jam_mulai": "10:45",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbxMrj43t5IdMqHiqXxBbEexhy2iinXLnHirzJdRxBE5i4iT7ftcLp_V5ZQ87rlS7g1IdQ/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    },
+    {
+      "id": "JDL-SMK-0005",
+      "tanggal": "2026-11-27",
+      "kelas": "Kelas XI MPLB",
+      "kelas_id": "KLS-SMK-XI-MPLB",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0304",
+      "jam_mulai": "10:45",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbyC7HgL-aM3TKfD83vV4xA6VPW2LD03DdIQajEl6289-N8_XKxdKu5-qBcR-qMw3_SB/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    },
+    {
+      "id": "JDL-SMK-0006",
+      "tanggal": "2026-11-27",
+      "kelas": "Kelas XI DKV",
+      "kelas_id": "KLS-SMK-XI-DKV",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0305",
+      "jam_mulai": "10:45",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycby1eSvWeGnZkZ5LSI7oD7Jt_t8yxAU_dWTrlxu75F6DVz2-YtGKcp5nzIVdR-EklPj6/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    },
+    {
+      "id": "JDL-SMK-0007",
+      "tanggal": "2026-11-27",
+      "kelas": "Kelas XI TJKT",
+      "kelas_id": "KLS-SMK-XI-TJKT",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0306",
+      "jam_mulai": "10:45",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbxWBG8Eb4qk23cs5tJwaevt9KeMYjTK1c3K5LBkhOwt6eMP0iVCy37bmCTQ6N1GCqjG/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    },
+    {
+      "id": "JDL-SMK-0008",
+      "tanggal": "2026-11-27",
+      "kelas": "Kelas XII DKV",
+      "kelas_id": "KLS-SMK-XII-DKV",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0307",
+      "jam_mulai": "10:45",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbw9TjpOCgBFfzZC26312wUIohLy_UevbVqGbCul5uzTd8NEb8kShMhr92kcjMZnQnSbgA/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    },
+    {
+      "id": "JDL-SMK-0009",
+      "tanggal": "2026-11-27",
+      "kelas": "Kelas XII TJKT",
+      "kelas_id": "KLS-SMK-XII-TJKT",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0308",
+      "jam_mulai": "10:45",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbyl1gN-_01rOga01BDjcZ3fAOdzaNv_aywUeoloyO0WpKf3uPhrkkpe4nlXcpbGMMfg/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    }
+  ]
 }
