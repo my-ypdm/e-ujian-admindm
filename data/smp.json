@@ -1,6 +1,46 @@
 {
   "jenjang": "SMP",
   "nama": "E-Ujian SMP Dua Mei",
-  "generated_at": "2026-11-27T03:08:44.130Z",
-  "jadwal": []
+  "generated_at": "2026-11-27T03:46:47.592Z",
+  "jadwal": [
+    {
+      "id": "JDL-SMP-0001",
+      "tanggal": "2026-11-27",
+      "kelas": "VII",
+      "kelas_id": "KLS-SMP-7",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0309",
+      "jam_mulai": "10:50",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbyJU5s-Xw8OPfIHFu_R-V2iFzZNF0kfHa1XyKYzPSILnr-AQbj2FB_jElcVbgqkaLXF/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    },
+    {
+      "id": "JDL-SMP-0002",
+      "tanggal": "2026-11-27",
+      "kelas": "VIII",
+      "kelas_id": "KLS-SMP-8",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0310",
+      "jam_mulai": "10:50",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbw_prUHHsKCfxfyOJ-LVLnMeeWb1DaiIP2Aubn3sxNyG24TQsUWV-YR1SMaGWHHrcoD/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    },
+    {
+      "id": "JDL-SMP-0003",
+      "tanggal": "2026-11-27",
+      "kelas": "IX",
+      "kelas_id": "KLS-SMP-9",
+      "mapel": "Gladi Bersih",
+      "mapel_id": "MAP-0311",
+      "jam_mulai": "10:50",
+      "jam_selesai": "11:30",
+      "status": "AKTIF",
+      "link_ujian": "https://script.google.com/macros/s/AKfycbxSrvobAS4K0TEM-jHMZoictsLpzfpnLpxabRCAWnCd-Eu6zCvDssBmkxMVRtdV4gvS/exec",
+      "catatan": "Simulasi Gladi Bersih"
+    }
+  ]
 }
